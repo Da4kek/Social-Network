@@ -1,7 +1,7 @@
 import pandas as pd 
 import numpy as np
 import networkx as nx 
-from data_prep import make_nodes,make_embedding
+from sources.data_prep import make_nodes,make_embedding
 from sklearn.metrics.pairwise import cosine_similarity
 from node2vec import Node2Vec
 
