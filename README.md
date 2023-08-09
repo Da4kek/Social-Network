@@ -16,3 +16,4 @@
 5. [Social Network Analysis: WOM Marketing in Rural India](https://github.com/simranvolunesia/Finding_Influential_Nodes_RuralSetting/blob/main/report.pdf)
 6. [A community-based approach to identify the most influential nodes in social networks](https://sci-hub.se/https://doi.org/10.1177/0165551515621005)
 7. [Detecting influential nodes with topological structure via Graph Neural Network approach in social networks](https://link.springer.com/article/10.1007/s41870-023-01271-1)
+8. [Choosing Optimal Seed Nodes in Competitive Contagion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931913/)
